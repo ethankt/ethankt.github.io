@@ -70,7 +70,7 @@ body {
     font-size: 70pt;
     height: auto;
     width: auto;
-    padding-top: 250px;
+    padding-top: 200px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding-bottom: 80px;
@@ -107,7 +107,7 @@ section.skill {
 
 .category {
     /*padding-left: 30px;*/
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 h3 {
